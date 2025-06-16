@@ -1,0 +1,1 @@
+const secretApiKey = "your secret key";
