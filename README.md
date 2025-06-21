@@ -1,6 +1,7 @@
 # ai_assistant
 
-A new Flutter project.
+Ai Assistant app
+![ai](https://github.com/user-attachments/assets/ed05a652-6e61-4208-9fbc-65bb1b81519b)
 
 ## Getting Started
 
